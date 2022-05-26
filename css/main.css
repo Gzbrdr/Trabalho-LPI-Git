@@ -23,6 +23,7 @@ main {
 }
 
 main a {
+    color: #6c3716;
     transition: color .2s;
 }
 
